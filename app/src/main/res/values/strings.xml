@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">俄羅斯轉餐</string>
+    <string name="roll_dice">轉動</string>
+    <string name="dice_result">轉到的食物是!!!</string>
+</resources>
